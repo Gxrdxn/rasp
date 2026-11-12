@@ -1,0 +1,6 @@
+{
+  "name": "RaspiDash",
+  "description": "Real-time Raspberry Pi dashboard for temperature, CPU, memory, connected devices, WebSocket telemetry, interactive charts, CLI terminal, and AI performance advisor.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
